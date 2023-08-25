@@ -9,7 +9,7 @@
 @section('main')<div class="main-content">
         <section class="section">
             <div class="section-header">
-                <h1>Blank Page Joss broo</h1>
+                <h1>Blank Page Joss broo rev2</h1>
             </div>
 
             <div class="section-body">
